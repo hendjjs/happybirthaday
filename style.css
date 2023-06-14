@@ -108,7 +108,7 @@ a {
     font-size: 20px;
 }
 #surp button:hover::after {
-    content: ' Сегодня будет небольшой подарок)';
+    content: ' Сегодня будет небольшой подарок :)';
 }
 #stih>*, #cong>* {
     margin: 1px 20px;
